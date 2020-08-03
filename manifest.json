@@ -1,0 +1,9 @@
+{
+  "name": "Hotstar Party Extension",
+  "version": "1.0",
+  "description": "Chrome Extension to watch the hotstar together with friends online.",
+  "icons": {
+    "48": "images/icons8-hotstar-48.png"
+  },
+  "manifest_version": 2
+}
